@@ -22,19 +22,6 @@ Java 22.0.2 or newer
 IntelliJ IDEA or any other Java IDE
 Java Development Kit (JDK) installed on your machine
 
-**Installation**
-
-1)Clone the Repository:
-git clone https://github.com/yourusername/tictactoe-game.git
-
-2)Navigate to the Project Directory:
-cd tictactoe-game
-
-3)Compile the Java Code:
-javac TicTacToeGame.java
-
-4)Run the Game:
-java TicTacToeGame
 
 **Usage**
 
